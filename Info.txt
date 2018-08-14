@@ -1,0 +1,16 @@
+Instructor Information
+Name Kent King
+Email kking83@cscc.edu
+
+Course Textbooks
+The Course content is delivered online via Blackboard.  No textbook is required.  The ISC2 downloadable PDF's for the course are in the link below.
+
+An optional textbook is suggested to aid with preparation for the SSCP exam:
+
+ISC2 SSCP Official Study Guide 
+
+George B. Murphy
+
+ISBN: 978-1-119-05965-3
+
+Copyright 2015 by John Wiley & Sons, Inc.
